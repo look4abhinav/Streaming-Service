@@ -1,0 +1,24 @@
+body{
+	font-family: 'Pangolin', cursive;
+	color: black;
+	/*background: url("https://image.scoopwhoop.com/w863/s4.scoopwhoop.com/rob/creepysites/11.jpg.webp");*/
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+}
+
+video{
+	height: 50%; 
+	width: auto;
+}
+
+#toggle{
+	float: right;
+}
+
+#myVideo{
+	display: none;
+	border: 1px solid;
+	border-radius: 5px;
+	margin: 0 auto;
+}
