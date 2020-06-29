@@ -4,7 +4,6 @@ document.querySelector('#toggle').addEventListener('click',function(){
 	if(btn.textContent === 'Dark'){
 		body.style.setProperty('color','white')
 		body.style.setProperty('background-color','black')
-		/*body.style.setProperty('background','url("https://wallpaperaccess.com/full/104483.jpg")')
 		body.style.setProperty('background-repeat','no-repeat')*/
 		btn.classList.remove('btn-dark')
 		btn.classList.add('btn-light')

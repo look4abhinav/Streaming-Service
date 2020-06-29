@@ -1,7 +1,6 @@
 body{
 	font-family: 'Pangolin', cursive;
 	color: black;
-	/*background: url("https://image.scoopwhoop.com/w863/s4.scoopwhoop.com/rob/creepysites/11.jpg.webp");*/
 	background-color: #FFFFFF;
 	background-repeat: no-repeat;
   	background-size: 100% 100%;
@@ -14,6 +13,10 @@ video{
 
 #toggle{
 	float: right;
+	display: inline;
+}
+div h3{
+	display: inline;
 }
 
 #myVideo{
